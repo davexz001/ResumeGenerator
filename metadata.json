@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Builder",
+  "description": "Full-stack application to build and manage AI-generated professional resumes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
